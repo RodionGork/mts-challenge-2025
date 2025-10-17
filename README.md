@@ -16,3 +16,10 @@ reliable and learn to manage robot using lidar. Best solution works in 65 second
 The second problem requests us to make robot navigating the maze. It would be
 simple but the robot is the same "physical" car as in the first problem so
 it becomes quite challenging.
+
+The third problem wants us to drive the robot over the platform of complex shape,
+which has no walls so it is easy to fall-off into abyss. The main sensor here
+is the "depth camera". Regretfully the problem was not well prepared and even
+was given to contestants in incomplete state with controller lacking movement
+part at all. Contestants were told to finalize it themselves. No clear statement
+was specified either.
